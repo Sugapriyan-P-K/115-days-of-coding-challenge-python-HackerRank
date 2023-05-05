@@ -10,3 +10,5 @@ Day 2: [If Else](Introduction/Day2IfElse.py)
 Day 3: [Arithmetic Operators](Introduction/Day3ArithmeticOperators.py)
 
 Day 4: [Division](Introduction/Day4Division.py)
+
+Day 5: [Loop](Introduction/Day5Loop.py)
