@@ -12,3 +12,5 @@ Day 3: [Arithmetic Operators](Introduction/Day3ArithmeticOperators.py)
 Day 4: [Division](Introduction/Day4Division.py)
 
 Day 5: [Loop](Introduction/Day5Loop.py)
+
+Day 6: [Write a function](Introduction/Day6write_a_function.py)
