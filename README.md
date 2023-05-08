@@ -6,7 +6,9 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 [Basic Datatypes](README.md#basic-datatypes)
 
 ### Based on Subdomains
+<hr>
 ### Introduction
+
   Day 1: [Hello World](Introduction/Day1SayHelloWorld.py)
 
   Day 2: [If Else](Introduction/Day2IfElse.py)
