@@ -27,3 +27,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 ### Basic DataTypes
   Day 8: [List Comprehensions](BasicDatatypes/listComprehensions.py)
   
+  Day 9: [Find The Runner Up Score](BasicDatatypes/findTheRunnerUpScore.py)
