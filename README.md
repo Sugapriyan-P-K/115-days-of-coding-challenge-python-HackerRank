@@ -25,6 +25,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   Day 7: [Print Function](Introduction/Day7PrintFunction.py)
 
 ### Basic DataTypes
-  Day 8: [List Comprehensions](BasicDatatypes/listComprehensions.py)
+  Day 8: [List Comprehensions](BasicDatatypes/Day8ListComprehensions.py)
   
-  Day 9: [Find The Runner Up Score](BasicDatatypes/findTheRunnerUpScore.py)
+  Day 9: [Find The Runner Up Score](BasicDatatypes/Day9FindTheRunnerUpScore.py)
+
+  Day 10: [Nested Lists](BasicDatatypes/Day10NestedLists.py)
