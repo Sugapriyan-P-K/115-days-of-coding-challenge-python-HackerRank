@@ -30,3 +30,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   Day 9: [Find The Runner Up Score](BasicDatatypes/Day9FindTheRunnerUpScore.py)
 
   Day 10: [Nested Lists](BasicDatatypes/Day10NestedLists.py)
+  
+  Day 11: [Finding The Percentage](BasicDatatypes/Day11FindingThePercentage.py)
+  
+  
