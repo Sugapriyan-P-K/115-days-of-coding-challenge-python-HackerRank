@@ -33,4 +33,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 11: [Finding The Percentage](BasicDatatypes/Day11FindingThePercentage.py)
   
+  Day 12: [Lists](BasicDatatypes/Day12Lists.py)
+  
   
