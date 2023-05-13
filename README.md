@@ -35,4 +35,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 12: [Lists](BasicDatatypes/Day12Lists.py)
   
+  Day 13: [Tuples](BasicDatatypes/Day13Tuples.py)
+  
   
