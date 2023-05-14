@@ -37,4 +37,5 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 13: [Tuples](BasicDatatypes/Day13Tuples.py)
   
-  
+### Strings
+  Day 14: [sWAP cASE](Strings/Day14sWAPcASE.PY)
