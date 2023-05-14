@@ -5,6 +5,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 [Basic Datatypes](README.md#basic-datatypes)
 
+[Strings](README.md#strings)
+
 ### Based on Subdomains
 <hr>
 
@@ -39,3 +41,5 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
 ### Strings
   Day 14: [sWAP cASE](Strings/Day14sWAPcASE.PY)
+  
+  
