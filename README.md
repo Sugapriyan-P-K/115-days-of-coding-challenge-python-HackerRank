@@ -42,4 +42,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 ### Strings
   Day 14: [sWAP cASE](Strings/Day14sWAPcASE.PY)
   
+  Day 15: [String Split And Join](Strings/Day15StringSplitAndJoin.py)
+  
   
