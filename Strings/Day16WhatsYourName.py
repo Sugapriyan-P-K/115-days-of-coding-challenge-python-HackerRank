@@ -2,10 +2,8 @@
 # The function accepts following parameters:
 #  1. STRING first
 #  2. STRING last
-#
 
 def print_full_name(first, last):
-    # Write your code here
     print("Hello " + first +" " + last+"! You just delved into python.")
 
 
