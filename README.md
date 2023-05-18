@@ -48,4 +48,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 17: [Mutations](Strings/Day17Mutations.py)
   
+  Day 18: [Find A String](Strings/Day18FindAString.py)
+  
   
