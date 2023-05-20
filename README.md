@@ -50,4 +50,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 18: [Find A String](Strings/Day18FindAString.py)
   
+  Day 19: [String Validators](Strings/Day19StringValidators.py)
+  
   
