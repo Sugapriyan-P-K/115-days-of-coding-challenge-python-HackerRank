@@ -52,4 +52,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 19: [String Validators](Strings/Day19StringValidators.py)
   
+  Day 20: [Text Alignment](Strings/Day20TextAlignment.py)
+  
   
