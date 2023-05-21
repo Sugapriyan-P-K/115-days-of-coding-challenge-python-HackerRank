@@ -54,4 +54,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 20: [Text Alignment](Strings/Day20TextAlignment.py)
   
+  Day 21: [Text Wrap](Strings/Day21TextWrap.py)
+  
   
