@@ -56,4 +56,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 21: [Text Wrap](Strings/Day21TextWrap.py)
   
+  Day 22: [Designer Door Mat](Strings/Day22DesignerDoorMat.py)
+  
   
