@@ -58,4 +58,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 22: [Designer Door Mat](Strings/Day22DesignerDoorMat.py)
   
+  Day 23: [String Formatting](Strings/Day23StringFormatting.py)
+  
   
