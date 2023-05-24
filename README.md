@@ -60,4 +60,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 23: [String Formatting](Strings/Day23StringFormatting.py)
   
+  Day 24: [Alphabet Rangoli](Strings/Day24AlphabetRangoli.py)
+  
   
