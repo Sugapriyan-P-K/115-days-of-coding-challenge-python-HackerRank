@@ -62,4 +62,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 24: [Alphabet Rangoli](Strings/Day24AlphabetRangoli.py)
   
+  Day 25: [Capitalize](Strings/Day25Capitalize.py)
+  
   
