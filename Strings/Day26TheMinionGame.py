@@ -1,3 +1,20 @@
+def minion_game(string):
+    n = len(string)
+    vowels = "AEIOU"
+    stuart_score = (n*(n+1))//2
+    kevin_score =sum(n-i for i in range(n) if string[i] in vowels)
+    stuart_score = stuart_score - kevin_score
+    if kevin_score>stuart_score:
+        print(f"Kevin {kevin_score}")
+    elif stuart_score>kevin_score:
+        print(f"Stuart {stuart_score}")
+    else:
+        print("Draw")
+
+if __name__ == '__main__':
+    s = input()
+    minion_game(s)
+
 # Kevin and Stuart want to play the 'The Minion Game'.
 
 # Game Rules
