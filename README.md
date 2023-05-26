@@ -64,4 +64,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 25: [Capitalize](Strings/Day25Capitalize.py)
   
+  Day 26: [The Minion Game](Strings/Day26TheMinionGame.py)
+  
   
