@@ -1,13 +1,13 @@
 # 115-days-of-coding-challenge-python-HackerRank
 This is a coding challenge. In this challenge I'm gonna complete all the coding exercise in HackerRank python preparation.
 ## Subdomains
-[Introduction](README.md#introduction-1)
+[Introduction](#introduction-1)
 
-[Basic Datatypes](README.md#basic-datatypes)
+[Basic Datatypes](#basic-datatypes)
 
-[Strings](README.md#strings)
+[Strings](#strings)
 
-[Sets](README.md#sets)
+[Sets](#sets)
 
 ### Based on Subdomains
 <hr>
