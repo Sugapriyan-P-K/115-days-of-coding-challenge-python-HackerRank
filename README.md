@@ -7,6 +7,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 [Strings](README.md#strings)
 
+[Sets](README.md#sets)
+
 ### Based on Subdomains
 <hr>
 
@@ -68,6 +70,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 27: [Merge The Tools](Strings/Day27MergeTheTools.py)
   
+### Sets
   Day 28: [Introduction To Sets](Sets/Day28IntroToSets.py)
   
   
