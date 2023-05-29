@@ -74,4 +74,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 ### Sets
   Day 28: [Introduction To Sets](Sets/Day28IntroToSets.py)
   
+  Day 29: [No Idea](Sets/Day29NoIdea.py)
+  
   
