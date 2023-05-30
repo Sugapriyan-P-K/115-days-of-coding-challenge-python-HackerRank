@@ -1,3 +1,9 @@
+n = int(input())
+m = set(map(int, input().split()))
+n1 = int(input())
+m1 = set(map(int, input().split()))
+for i in sorted(list(m.symmetric_difference(m1))):
+    print(i)
 
 
 # Task
