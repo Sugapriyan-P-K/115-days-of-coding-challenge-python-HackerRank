@@ -76,4 +76,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 29: [No Idea](Sets/Day29NoIdea.py)
   
+  Day 30: [Symmetric Difference](Sets/Day30SymmetricDifference.py)
+  
   
