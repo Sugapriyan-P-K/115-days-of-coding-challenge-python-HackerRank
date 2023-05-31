@@ -78,4 +78,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 30: [Symmetric Difference](Sets/Day30SymmetricDifference.py)
   
+  Day 31: [Set .add()](Sets/Day31SetAdd.py)
+  
   
