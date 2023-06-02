@@ -1,3 +1,10 @@
+n = int(input())
+a = set(map(int, input().split()))
+n2 = int(input())
+b = set(map(int, input().split()))
+s = a.union(b)
+print(len(s))
+
 
 # Sample Input
 # 9
