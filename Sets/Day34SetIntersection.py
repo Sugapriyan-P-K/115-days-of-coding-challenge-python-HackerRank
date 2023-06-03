@@ -1,3 +1,8 @@
+n = int(input())
+s = set(input().split())
+n1 = int(input())
+s1 = set(input().split())
+print(len(s.intersection(s1)))
 
 
 # Sample Input
