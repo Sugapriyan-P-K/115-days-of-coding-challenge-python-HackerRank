@@ -1,4 +1,8 @@
-
+n = int(input())
+set_1 = set(input().split())
+n1 = int(input())
+set_2 = set(input().split())
+print(len(set_1-set_2))
 
 # Task
 # Students of District College have a subscription to English and French newspapers. Some students have subscribed to only the English newspaper, 
