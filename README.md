@@ -86,4 +86,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 34:[Set .intersection() Operation](Sets/Day34SetIntersection.py)
   
+  Day 35:[Set .difference() Operation](Sets/Day35SetDifference.py)
+  
   
