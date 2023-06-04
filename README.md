@@ -82,10 +82,10 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 32: [Set .discard(), .remove() & .pop()](Sets/Day32SetDiscardRemovePop.py)
   
-  Day 33:[Set .union() Operation](Sets/Day33SetUnion.py)
+  Day 33: [Set .union() Operation](Sets/Day33SetUnion.py)
   
-  Day 34:[Set .intersection() Operation](Sets/Day34SetIntersection.py)
+  Day 34: [Set .intersection() Operation](Sets/Day34SetIntersection.py)
   
-  Day 35:[Set .difference() Operation](Sets/Day35SetDifference.py)
+  Day 35: [Set .difference() Operation](Sets/Day35SetDifference.py)
   
   
