@@ -1,3 +1,8 @@
+n = int(input())
+a = set(map(int, input().split()))
+n1 = int(input())
+b = set(map(int, input().split()))
+print(len(a.symmetric_difference(b)))
 
 # Task
 # Students of District College have subscriptions to English and French newspapers. Some students have subscribed to English only, some have subscribed to 
