@@ -88,4 +88,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 35: [Set .difference() Operation](Sets/Day35SetDifference.py)
   
+  Day 36: [Set .symmetric_difference() Operation](Sets/Day36SetSymmetricDifference.py)
+  
   
