@@ -90,4 +90,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 36: [Set .symmetric_difference() Operation](Sets/Day36SetSymmetricDifference.py)
   
+  Day 37: [Set Mutations](Sets/Day37SetMutations.py)
+  
   
