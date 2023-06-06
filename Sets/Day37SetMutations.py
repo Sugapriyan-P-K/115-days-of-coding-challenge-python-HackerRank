@@ -1,3 +1,21 @@
+n = int(input())
+s = set(map(int, input().split()))
+for i in range(int(input())):
+    a = (input().split())
+    if a[0]=="update":
+        s1 = set(map(int, input().split()))
+        s.update(s1)
+    if a[0]=="intersection_update":
+        s2 = set(map(int, input().split()))
+        s.intersection_update(s2)
+    if a[0]=="difference_update":
+        s3 = set(map(int, input().split()))
+        s.difference_update(s3)
+    if a[0]=="symmetric_difference_update":
+        s4 = set(map(int, input().split()))
+        s.symmetric_difference_update(s4)
+
+print(sum(s))
 
 
 # TASK
