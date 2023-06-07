@@ -1,4 +1,8 @@
-
+n = int(input())
+room = input().split()
+room.sort()
+cap = (set(room[0::2]) ^ set(room[1::2]))
+print(cap.pop())
 
 # Mr. Anant Asankhya is the manager at the INFINITE hotel. The hotel has an infinite amount of rooms.
 # One fine day, a finite number of tourists come to stay at the hotel.
