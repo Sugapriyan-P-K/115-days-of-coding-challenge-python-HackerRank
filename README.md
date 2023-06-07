@@ -92,4 +92,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 37: [Set Mutations](Sets/Day37SetMutations.py)
   
+  Day 38: [The Captain's Room](Sets/Day38TheCaptainsRoom.py)
+  
   
