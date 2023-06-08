@@ -94,4 +94,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 38: [The Captain's Room](Sets/Day38TheCaptainsRoom.py)
   
+  Day 39: [Check Subset](Sets/Day39CheckSubset.py)
+  
   
