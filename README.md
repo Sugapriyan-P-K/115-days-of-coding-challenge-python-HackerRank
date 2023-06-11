@@ -103,4 +103,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 ### Math
   Day 41 : [Polar Coordinates](Math/Day41PolarCoordinates.py)
   
+  Day 42 : [Find Angle MBC](Math/Day42FindAngleMBC.py)
+  
   
