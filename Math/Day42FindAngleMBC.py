@@ -1,4 +1,9 @@
-
+import math
+AB, BC= int(input()),int(input())
+hypo = math.hypot(AB,BC)
+angle_mbc = str(round(math.degrees(math.acos(BC/hypo))))
+degree_symbol = chr(176)
+print(angle_mbc+degree_symbol)
 
 
 # Examples:
