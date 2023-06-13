@@ -1,4 +1,9 @@
-
+from math import *
+a = float(input())
+b = float(input())
+m = float(input())
+print(int(pow(a,b)))
+print(int(pow(a,b)%m))
 
 # Task
 # You are given three integers: a, b, and m. Print two lines.
