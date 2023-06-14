@@ -109,4 +109,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 44 : [Power-Mod Power](Math/Day44PowerModPower.py)
   
+  Day 45 : [Integer Comes in all sizes](Math/Day45IntComesInAllSizes.py)
+  
   
