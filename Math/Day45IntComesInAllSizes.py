@@ -1,3 +1,4 @@
+print(pow(int(input()),int(input()))+pow(int(input()),int(input())))
 
 # Task
 # Read four numbers, a, b, c, and d, and print the result of a^b + c^d.
