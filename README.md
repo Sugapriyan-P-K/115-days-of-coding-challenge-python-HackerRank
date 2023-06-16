@@ -113,4 +113,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   
   Day 46 : [Triangle Quest](Math/Day46TriangleQuest.py)
 
+  Day 47 : [Triangle Quest2](Math/Day47TriangleQuest2.py)
+
   
