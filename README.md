@@ -12,6 +12,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Math](#math)
 
+- [Itertools]
+
 ### Based on Subdomains
 <hr>
 
@@ -115,4 +117,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 47 : [Triangle Quest2](Math/Day47TriangleQuest2.py)
 
-  
+### Itertools
+
+  Day 48 : [Itertools .product()](Itertools/Day48ItertoolsProduct.py)
