@@ -12,7 +12,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Math](#math)
 
-- [Itertools]
+- [Itertools](#itertools)
 
 ### Based on Subdomains
 <hr>
