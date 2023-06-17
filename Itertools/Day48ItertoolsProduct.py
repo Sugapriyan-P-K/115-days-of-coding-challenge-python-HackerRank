@@ -1,4 +1,9 @@
-
+from itertools import product
+A = list(map(int, input().split()))
+B = list(map(int, input().split()))
+car_product = product(A,B)
+for i in car_product:
+    print(i,end=" ")
 
 # For example, product(A, B) returns the same as ((x,y) for x in A for y in B).
 # Task
