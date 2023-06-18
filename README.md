@@ -120,3 +120,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 ### Itertools
 
   Day 48 : [Itertools .product()](Itertools/Day48ItertoolsProduct.py)
+
+  Day 49 : [Itertools .permutations()](Itertools/Day49ItertoolsPermutations.py)
+
+  
