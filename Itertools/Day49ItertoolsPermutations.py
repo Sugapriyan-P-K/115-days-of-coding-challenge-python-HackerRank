@@ -1,4 +1,9 @@
-
+from itertools import permutations 
+s,k = input().split()
+k = int(k)
+per_str = sorted(list(permutations(s,k)))
+for i in per_str:
+    print("".join(list(i)))
 
 # Task
 # You are given a string S.
