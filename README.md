@@ -123,4 +123,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 49 : [Itertools .permutations()](Itertools/Day49ItertoolsPermutations.py)
 
+  Day 50 : [Itertools .combinations()](Itertools/Day50ItertoolsCombinations.py)
+
   
