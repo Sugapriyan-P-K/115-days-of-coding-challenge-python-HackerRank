@@ -1,4 +1,9 @@
-
+from itertools import combinations
+s,k = input().split()
+s = sorted(list(s))
+for i in range(1,int(k)+1):
+    S = list(combinations(s,i))
+    print(*("".join(j) for j in S),sep="\n")
 
 # Task
 # You are given a string S.
