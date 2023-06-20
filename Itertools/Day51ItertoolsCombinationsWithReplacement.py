@@ -1,4 +1,8 @@
-
+from itertools import combinations_with_replacement
+s,k = input().split()
+l = list(combinations_with_replacement(sorted(s), int(k)))
+for i in l:
+    print("".join(list(i)))
 
 # Task
 # You are given a string S.
