@@ -125,4 +125,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 50 : [Itertools .combinations()](Itertools/Day50ItertoolsCombinations.py)
 
+  Day 51 : [Itertools .combinations_with_replacement()](Itertools/Day51ItertoolsCombinationsWithReplacement.py)
+
   
