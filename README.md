@@ -127,4 +127,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 51 : [Itertools .combinations_with_replacement()](Itertools/Day51ItertoolsCombinationsWithReplacement.py)
 
+  Day 52 : [Compress The String](Itertools/Day52CompressTheString.py)
+
   
