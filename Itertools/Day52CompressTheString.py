@@ -1,3 +1,8 @@
+from itertools import groupby
+S = input()
+for key, group in (groupby(S)):
+    print((len(list(group)),int(key)), end=" ")
+
 
 # You are given a string S. Suppose a character 'c' occurs consecutively X times in the string. Replace these consecutive occurrences of the character 'c' with (X,C) in the string.
 # For a better understanding of the problem, check the explanation.
