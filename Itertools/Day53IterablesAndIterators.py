@@ -1,4 +1,14 @@
-
+from itertools import combinations
+n = int(input())
+l = (list(map(str, input().split())))
+k = int(input())
+p = combinations(l, k)
+ct,cp= 0,0
+for i in p:
+    ct += 1
+    if 'a' in i:
+        cp += 1
+print(f'{cp/ct:.4f}')
 
 # Sample Input
 # 4 
