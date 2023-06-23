@@ -1,4 +1,8 @@
-
+from itertools import product
+n,m = map(int, input().split())
+s = (list(map(int, input().split()))[1:] for i in range(n))
+x = product(*s)
+print(max(map(lambda x : sum(i**2 for i in x)%m, x)))
 
 # You are given a function f(x) = X^2. You are also given K lists. The iTH list consists of Ni elements.
 # You have to pick one element from each list so that the value from the equation below is maximized:
