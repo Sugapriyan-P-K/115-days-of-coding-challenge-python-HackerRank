@@ -1,4 +1,27 @@
-
+# without Counter
+# n = int(input())
+# x = map(int, input().split())
+# x = list(x)
+# c = 0
+# for i in range(int(input())):
+#     s, p = map(int, input().split())
+#     if s in x:
+#         x.remove(s)
+#         c = c + p
+# print(c)  
+# with Counter
+from collections import Counter
+n_shoes = int(input())
+shoes = input().split()
+size = Counter(shoes)
+n = int(input())
+money = 0
+for i in range(n):
+    s, p = input().split()
+    if size[s] > 0:
+        size[s] -= 1
+        money += int(p)
+print(money)
 
 # collections.Counter()
 # A counter is a container that stores elements as dictionary keys, and their counts are stored as dictionary values.
