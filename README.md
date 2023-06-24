@@ -133,4 +133,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 54 : [Maximize It](Itertools/Day54MaximizeIt.py)
 
+### Collections
+
+  Day 55 : [Collections.Counter()](Collections/Day55CollectionsCounter.py)
+
   
