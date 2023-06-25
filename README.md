@@ -14,6 +14,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Itertools](#itertools)
 
+- [Collections](#collections)
+
 ### Based on Subdomains
 <hr>
 
