@@ -137,4 +137,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 55 : [Collections.Counter()](Collections/Day55CollectionsCounter.py)
 
+  Day 56 : [DefaultDict](Collections/Day56DefaultDict.py)
+
   
