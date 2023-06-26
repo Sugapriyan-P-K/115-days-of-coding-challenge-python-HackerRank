@@ -1,3 +1,12 @@
+from collections import namedtuple
+n = int(input())
+avg=0
+stu = namedtuple('t',",".join(input().split()))
+for i in range(n):
+    a,b,c,d=input().split()
+    res = stu(a,b,c,d)
+    avg=avg+int(res.MARKS)
+print(avg/n)
 
 
 # Sample Input
