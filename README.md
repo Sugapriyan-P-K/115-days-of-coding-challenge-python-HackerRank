@@ -141,4 +141,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 56 : [DefaultDict](Collections/Day56DefaultDict.py)
 
+  Day 57 : [Named Tuple](Collections/Day57NamedTuple.py)
+
   
