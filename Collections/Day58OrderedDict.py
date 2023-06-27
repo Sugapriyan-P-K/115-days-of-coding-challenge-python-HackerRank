@@ -1,4 +1,15 @@
-
+from collections import OrderedDict
+d = OrderedDict()
+for i in range(int(input())):
+    *s,n = input().rsplit()
+    s = " ".join(j for j in s if j.isalpha())
+    n=int(n)
+    if s in d.keys():
+        v=d.get(s)
+        n=v+n
+    d[s]=n
+for key,value in d.items():
+   print(key,value)
 
 # Sample Input
 # 9
