@@ -145,4 +145,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 58 : [Ordered Dict](Collections/Day58OrderedDict.py)
 
+  Day 59 : [Word Order](Collections/Day59WordOrder.py)
+
   
