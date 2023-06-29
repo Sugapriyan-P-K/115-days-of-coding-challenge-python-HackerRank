@@ -1,4 +1,16 @@
-
+from collections import deque
+d=deque()
+for i in range(int(input())):
+    arg=input().split()
+    if arg[0]=="append":
+        d.append(arg[1])
+    elif arg[0]=="appendleft":
+        d.appendleft(arg[1])
+    elif arg[0]=="popleft":
+        d.popleft()
+    else:
+        d.pop()
+print(*d)
 
 # Task
 # Perform append, pop, popleft and appendleft methods on an empty deque d.
