@@ -147,4 +147,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 59 : [Word Order](Collections/Day59WordOrder.py)
 
+  Day 60 : [Collections.deque()](Collections/Day60Deque.py)
+
   
