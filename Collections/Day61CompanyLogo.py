@@ -1,4 +1,16 @@
+import math
+import os
+import random
+import re
+import sys
+from collections import Counter
 
+if __name__ == '__main__':
+    s = ''.join(sorted(input()))
+    myCounter = Counter(s)
+    res = myCounter.most_common(3)
+    for i in res:
+        print(*i)
 
 # Given a string , which is the company name in lowercase letters, your task is to find the top three most common characters in the string.
 # Print the three most common characters along with their occurrence count.
