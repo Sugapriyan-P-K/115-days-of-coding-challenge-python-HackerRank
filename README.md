@@ -149,4 +149,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 60 : [Collections.deque()](Collections/Day60Deque.py)
 
+  Day 61 : [Company Logo](Collections/Day61CompanyLogo.py)
+
   
