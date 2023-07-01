@@ -151,4 +151,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 61 : [Company Logo](Collections/Day61CompanyLogo.py)
 
+  Day 62 : [Piling Up](Collections/Day62PilingUp.py)
+
   
