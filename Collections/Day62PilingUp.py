@@ -1,4 +1,17 @@
+def pilingUpCubes(cubeList):
+    if max(cubeList)==cubeList[len(cubeList)-1] or max(cubeList)==cubeList[0]:
+        return True
+    else:
+        return False
+    
+def parseTestcase():
+    numberOfBlocks = int(input())
+    return [int(x) for x in input().split()]
 
+if __name__ == '__main__':
+    for testcase in range(int(input())):
+        resultOfTestcase = pilingUpCubes(parseTestcase())
+        print('Yes' if resultOfTestcase else 'No')
 
 # There is a horizontal row of n cubes. The length of each cube is given. You need to create a new vertical pile of cubes. The new pile should follow these directions: 
 # if cube[i] is on top of cube[j] then sideLength[j] >= sideLength[i].
