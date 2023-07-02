@@ -16,6 +16,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Collections](#collections)
 
+- [Date and Time](#date-and-time)
+
 ### Based on Subdomains
 <hr>
 
