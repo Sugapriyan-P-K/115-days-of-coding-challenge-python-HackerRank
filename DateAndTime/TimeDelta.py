@@ -1,4 +1,10 @@
+import math
+from datetime import datetime
 
+
+def time_delta(t1, t2):
+    format_date = "%a %d %b %Y %H:%M:%S %z"
+    return str(int(abs((datetime.strptime(t1, format_date)-datetime.strptime(t2, format_date)).total_seconds())))
 
 # Sample Input 0
 # 2
