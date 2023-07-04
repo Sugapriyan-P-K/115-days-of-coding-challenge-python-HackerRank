@@ -161,4 +161,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 64 : [Time Delta](DateAndTime/TimeDelta.py)
 
+### Errors and Exceptions
+
+  Day 65 : [Errors And Exceptions](ErrorsAndExceptions/Exceptionss.py)
+
   
