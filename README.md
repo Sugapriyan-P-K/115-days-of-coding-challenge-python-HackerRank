@@ -18,6 +18,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Date and Time](#date-and-time)
 
+- [Errors And Exceptions](#errors-and-exceptions)
+
 ### Based on Subdomains
 <hr>
 
