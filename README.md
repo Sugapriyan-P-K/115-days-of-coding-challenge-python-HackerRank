@@ -167,4 +167,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 65 : [Errors And Exceptions](ErrorsAndExceptions/Exceptionss.py)
 
-  Day 66 : [Incorrect Regex]
+  Day 66 : [Incorrect Regex](ErrorsAndExceptions/IncorrectRegex.py)
+
+  
