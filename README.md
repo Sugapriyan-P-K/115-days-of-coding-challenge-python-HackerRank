@@ -169,4 +169,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 66 : [Incorrect Regex](ErrorsAndExceptions/IncorrectRegex.py)
 
+### Classes
+
+  Day 67 : [Dealing With Complex Number](Classes/DealingWithComplexNumber.py)
+
   
