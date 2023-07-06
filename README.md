@@ -20,6 +20,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Errors And Exceptions](#errors-and-exceptions)
 
+- [Classes](#classes)
+
 ### Based on Subdomains
 <hr>
 
