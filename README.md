@@ -22,6 +22,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Classes](#classes)
 
+- [Zipped](#built-ins)
+
 ### Based on Subdomains
 <hr>
 
