@@ -1,4 +1,9 @@
-
+n,x = map(int, input().split())
+mark = [input().split() for i in range(x)]
+mark_list = [[float(j) for j in i] for i in mark]
+mark_list = list(zip(*mark_list))
+for scr in mark_list:
+    print(sum(scr)/x)
 
 # Task
 # The National University conducts an examination of N students in X subjects.
