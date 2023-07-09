@@ -1,4 +1,5 @@
-
+n,m= map(int,input().split())
+print(eval(input().replace('x',str(n)))==m)
 
 # Task
 # You are given a polynomial P of a single indeterminate (or variable), x.
