@@ -183,4 +183,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 69 : [Zipped!](Built-Ins/Zipped.py)
 
+  Day 70 : [Input()](Built-Ins/Input.py)
+
   
