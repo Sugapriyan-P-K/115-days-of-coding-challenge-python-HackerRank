@@ -185,4 +185,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 70 : [Input()](Built-Ins/Input.py)
 
+  Day 71 : [Python Evaluation](Built-Ins/PythonEvaluation.py)
+
   
