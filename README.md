@@ -187,4 +187,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 71 : [Python Evaluation](Built-Ins/PythonEvaluation.py)
 
+  Day 72 : [Athlete Sort](Built-Ins/AthleteSort.py)
+
   
