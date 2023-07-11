@@ -1,4 +1,14 @@
-
+if __name__ == '__main__':
+    nm = input().split()
+    n = int(nm[0])
+    m = int(nm[1])
+    arr = []
+    for _ in range(n):
+        arr.append(list(map(int, input().rstrip().split())))
+    k = int(input())
+    arr1 = sorted(arr, key=lambda x : x[k], reverse = False)
+    for i in arr1:
+        print(*i)
 
 # Input Format
 # The first line contains N and M separated by a space.
