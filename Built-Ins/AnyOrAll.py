@@ -1,4 +1,6 @@
-
+n = int(input())
+N = input().split()
+print(all([0 for i in N if int(i)<0]) and any([j for j in N if str(j)==str(j)[::-1]]))
 
 # Task
 # You are given a space separated list of integers. If all the integers are positive, then you need to check if any integer is a palindromic integer.
