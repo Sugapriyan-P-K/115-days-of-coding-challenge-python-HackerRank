@@ -22,7 +22,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Classes](#classes)
 
-- [Zipped](#built-ins)
+- [Built-Ins](#built-ins)
 
 ### Based on Subdomains
 <hr>
@@ -190,5 +190,7 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
   Day 72 : [Athlete Sort](Built-Ins/AthleteSort.py)
 
   Day 73 : [Any Or All](Built-Ins/AnyOrAll.py)
+
+  Day 74 : [ginortS](Built-Ins/ginortS.py)
 
   
