@@ -1,4 +1,5 @@
-
+orderToSort = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1357902468"
+print(*sorted(input(), key = orderToSort.index),sep='')
 
 # You are given a string S.
 # S contains alphanumeric characters only.
