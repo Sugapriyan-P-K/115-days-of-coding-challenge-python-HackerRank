@@ -24,6 +24,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Built-Ins](#built-ins)
 
+- [Python Functionals](#python-functionals)
+
 ### Based on Subdomains
 <hr>
 
