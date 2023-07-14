@@ -193,4 +193,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 74 : [ginortS](Built-Ins/ginortS.py)
 
+### Python Functionals
+
+  Day 75 : [Map And Lambda Function](PythonFunctionals/MapAndLambda.py)
+
   
