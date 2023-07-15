@@ -199,4 +199,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 75 : [Map And Lambda Function](PythonFunctionals/MapAndLambda.py)
 
+  Day 76 : [Validating Email Address](PythonFunctionals/ValidatingEmailAddress.py)
+
   
