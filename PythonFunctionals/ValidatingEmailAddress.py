@@ -1,4 +1,20 @@
+import re
+def fun(s):
+    # return True if s is a valid email, else return False
+    return bool(re.match(r'[a-zA-Z0-9_-]+@[a-zA-Z0-9]+\.[a-zA-Z]{0,3}$',str(s)))
 
+def filter_mail(emails):
+    return list(filter(fun, emails))
+
+if __name__ == '__main__':
+    n = int(input())
+    emails = []
+    for _ in range(n):
+        emails.append(input())
+
+filtered_emails = filter_mail(emails)
+filtered_emails.sort()
+print(filtered_emails)
 
 # You are given an integer N followed by N email addresses. Your task is to print a list containing only valid email addresses in lexicographical order.
 # Valid email addresses must follow these rules:
