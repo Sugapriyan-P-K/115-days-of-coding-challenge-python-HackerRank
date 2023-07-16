@@ -201,4 +201,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 76 : [Validating Email Address](PythonFunctionals/ValidatingEmailAddress.py)
 
+  Day 77 : [Reduce Function](PythonFunctionals/ReduceFunction.py)
+
   
