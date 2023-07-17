@@ -26,6 +26,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Python Functionals](#python-functionals)
 
+- [XML](#xml)
+
 ### Based on Subdomains
 <hr>
 
