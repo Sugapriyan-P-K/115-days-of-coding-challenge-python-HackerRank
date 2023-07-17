@@ -203,4 +203,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 77 : [Reduce Function](PythonFunctionals/ReduceFunction.py)
 
+### XML
+
+  Day 78 : [XML1 - Find the Score](XML/XML1FindTheScore.py)
+
   
