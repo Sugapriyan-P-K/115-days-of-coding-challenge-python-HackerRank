@@ -1,4 +1,10 @@
+import xml.etree.ElementTree as etree
 
+def get_attr_number(node):
+    count = 0
+    for at in node.iter():
+        count += len(at.attrib)
+    return count
 
 # Sample Input
 # 6
