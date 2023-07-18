@@ -2,7 +2,6 @@ import xml.etree.ElementTree as etree
 maxdepth = 0
 def depth(elem, level):
     global maxdepth
-    # your code goes here
     if level == maxdepth:
         maxdepth += 1
     for child in elem:
