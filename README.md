@@ -209,4 +209,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 78 : [XML1 - Find the Score](XML/XML1FindTheScore.py)
 
+  Day 79 : [XML2 - Find the Maximum Depth](XML/XML2FindTheMaximumDepth.py)
+
   
