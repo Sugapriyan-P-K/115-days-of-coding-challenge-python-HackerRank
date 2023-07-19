@@ -1,4 +1,17 @@
+def wrapper(f):
+    def fun(l):
+        l = [i[len(i)-10:len(i)] if len(i)>10 else i for i in l]
+        l = ['+91 ' + i[0:len(i)//2] + ' ' + i[len(i)//2:len(i)] for i in l]
+        return f(l)
+    return fun
 
+# default code
+@wrapper # decorator
+def sort_phone(l):
+    print(*sorted(l), sep='\n')
+if __name__ == '__main__':
+    l = [input() for _ in range(int(input()))]
+    sort_phone(l) 
 
 # You are given N mobile numbers. Sort them in ascending order then print them in the standard format shown below:
 # +91 xxxxx xxxxx
