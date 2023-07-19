@@ -211,4 +211,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 79 : [XML2 - Find the Maximum Depth](XML/XML2FindTheMaximumDepth.py)
 
+### Closures And Decorators
+
+  Day 80 : [Standardize Mobile Number using Decorators](ClosuresAndDecorators/StdizeMobNumUsingDec.py)
+
   
