@@ -28,6 +28,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [XML](#xml)
 
+- [Closures And Decorators](#closures-and-decorators)
+
 ### Based on Subdomains
 <hr>
 
