@@ -217,4 +217,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 80 : [Standardize Mobile Number using Decorators](ClosuresAndDecorators/StdizeMobNumUsingDec.py)
 
+  Day 81 : [Decorators 2 - Name Dictonary](ClosuresAndDecorators/NameDirectory.py)
+
   
