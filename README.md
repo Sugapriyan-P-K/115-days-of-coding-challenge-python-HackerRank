@@ -30,6 +30,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Closures And Decorators](#closures-and-decorators)
 
+- [Debugging](#debugging)
+
 ### Based on Subdomains
 <hr>
 
