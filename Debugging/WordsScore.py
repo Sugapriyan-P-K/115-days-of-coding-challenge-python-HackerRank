@@ -1,4 +1,21 @@
+def is_vowel(letter):
+    return letter in ['a', 'e', 'i', 'o', 'u', 'y']
+def score_words(words):
+    score = 0
+    for word in words:
+        num_vowels = 0
+        for letter in word:
+            if is_vowel(letter):
+                num_vowels += 1
+        if num_vowels % 2 == 0:
+            score = score + 2
+        else:
+            score = score + 1 # only one change
+    return score
 
+n = int(input())
+words = input().split()
+print(score_words(words))
 
 # In this challenge, the task is to debug the existing code to successfully execute all provided test files.
 # Consider that vowels in the alphabet are a, e, i, o, u and y.
