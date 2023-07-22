@@ -225,4 +225,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 82 : [Words Score](Debugging/WordsScore.py)
 
+  Day 83 : [Default Arguments](Debugging/DefaultArguments.py)
+
   
