@@ -32,6 +32,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 - [Debugging](#debugging)
 
+- [Regex And Parsing](#regex-and-parsing)
+
 ### Based on Subdomains
 <hr>
 
