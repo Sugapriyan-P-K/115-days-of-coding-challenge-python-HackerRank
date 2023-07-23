@@ -1,4 +1,11 @@
-
+import re
+for i in range(int(input())):
+    try:
+        a = input()
+        b = float(a)
+        print(bool(re.match(r"^(\+\d*|-\d*|\d*)\.\d+",str(a))))
+    except Exception:
+        print("False")
 
 # You are given a string N.
 # Your task is to verify that N is a floating point number.
