@@ -233,4 +233,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 84 : [Detect Floating Point Number](RegexAndParsing/DetectFPNumber.py)
 
+  Day 85 : [Re.split()](RegexAndParsing/ReSplit.py)
+
   
