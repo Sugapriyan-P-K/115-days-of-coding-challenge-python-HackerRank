@@ -1,4 +1,8 @@
-
+import re
+c = 'qwrtypsdfghjklzxcvbnm'
+v = 'aeiou'
+l=(re.findall(r'(?<=[%s])([%s]{2,})[%s]' % (c, v, c),input(), flags =re.I))
+print(*l, sep='\n') if len(l)>0 else print('-1')
 
 # Task
 # You are given a string S. It consists of alphanumeric characters, spaces and symbols(+,-).
