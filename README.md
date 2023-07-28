@@ -241,4 +241,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 88 : [Re.start() & Re.end()](RegexAndParsing/ReStartEnd.py)
 
+  Day 89 : [Regex Substitution](RegexAndParsing/RegexSubstitution.py)
+
   
