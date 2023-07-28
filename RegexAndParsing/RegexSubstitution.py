@@ -1,4 +1,7 @@
-
+import re
+for i in range(int(input())):
+    s = re.sub(r' &&(?= )', ' and', input())
+    print(re.sub(r' \|\|(?= )', ' or', s))
 
 # Task
 # You are given a text of N lines. The text contains && and || symbols.
