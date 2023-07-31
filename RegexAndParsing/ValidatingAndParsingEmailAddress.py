@@ -1,4 +1,11 @@
+import email.utils
+import re
 
+for i in range(int(input())):
+    emailId = input()
+    validEmail = email.utils.parseaddr(emailId)[1]
+    if re.search(r'^[a-zA-Z][a-zA-Z0-9-._]+@[a-zA-Z]+\.[a-zA-Z]{0,3}$', validEmail):
+        print(emailId)
 
 # A valid email address meets the following criteria:
 # It's composed of a username, domain name, and extension assembled in this format: username@domain.extension
