@@ -247,4 +247,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 91 : [Validating Phone Numbers](RegexAndParsing/ValidPhoneNumbers.py)
 
+  Day 92 : [Validating And Parsing Email Address](RegexAndParsing/ValidatingAndParsingEmailAddress.py)
+
   
