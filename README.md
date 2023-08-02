@@ -251,4 +251,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 93 : [Hex Color Code](RegexAndParsing/HexColorCode.py)
 
+  Day 94 : [HTML Parser - Part 1](RegexAndParsing/HTMLParser1.py)
+
   
