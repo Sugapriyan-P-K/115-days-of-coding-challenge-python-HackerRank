@@ -253,4 +253,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 94 : [HTML Parser - Part 1](RegexAndParsing/HTMLParser1.py)
 
+  Day 95 : [HTML Parser - Part 2](RegexAndParsing/HTMLParser2.py)
+
   
