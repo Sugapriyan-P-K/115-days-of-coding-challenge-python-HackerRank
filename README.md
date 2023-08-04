@@ -255,4 +255,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 95 : [HTML Parser - Part 2](RegexAndParsing/HTMLParser2.py)
 
+  Day 96 : [Detect HTML Tags, Attributes and Attribute Values](RegexAndParsing/DetectTagAttrAndValues.py)
+
   
