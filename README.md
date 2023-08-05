@@ -257,4 +257,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 96 : [Detect HTML Tags, Attributes and Attribute Values](RegexAndParsing/DetectTagAttrAndValues.py)
 
+  Day 97 : [Validating UID](RegexAndParsing/ValidatingUID.py)
+
   
