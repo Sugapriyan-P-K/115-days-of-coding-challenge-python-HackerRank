@@ -1,4 +1,7 @@
-
+import re
+for i in range(int(input())):
+    s = ''.join(sorted(input()))
+    print('Valid' if all([re.search(r, s) for r in [r'[a-zA-Z0-9]{10}', r'([A-Z].*){2}',r'([0-9].*){3}']]) and not re.search(r'.*(.).*\1', s) else 'Invalid')
 
 # ABCXYZ company has up to 100 employees.
 # The company decides to create a unique identification number (UID) for each of its employees.
