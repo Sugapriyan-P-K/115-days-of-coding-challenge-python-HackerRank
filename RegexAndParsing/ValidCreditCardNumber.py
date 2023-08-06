@@ -1,3 +1,12 @@
+import re
+pattern = re.compile(r'^[4-6]\d{3}-?\d{4}-?\d{4}-?\d{4}$')
+regex = r'(\d)\1\1\1'
+for i in range(int(input())):
+    num = input()
+    if not pattern.fullmatch(num) or re.search(regex, num.replace('-', '')):
+        print('Invalid')
+    else:
+        print('Valid')
 
 
 # You and Fredrick are good friends. Yesterday, Fredrick received N credit cards from ABCD Bank. He wants to verify whether his credit card numbers are valid or not. 
