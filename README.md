@@ -261,4 +261,6 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
   Day 98 : [Validating Credit card Number](RegexAndParsing/ValidCreditCardNumber.py)
 
+  Day 99 : [Validating Postal Codes](RegexAndParsing/ValidPostalCodes.py)
+
   
