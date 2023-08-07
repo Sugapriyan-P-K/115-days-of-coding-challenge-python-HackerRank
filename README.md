@@ -39,119 +39,82 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 
 ### Introduction
 
-  Day 1 : [Hello World](Introduction/Day1SayHelloWorld.py)
-
-  Day 2 : [If Else](Introduction/Day2IfElse.py)
-
-  Day 3 : [Arithmetic Operators](Introduction/Day3ArithmeticOperators.py)
-
-  Day 4 : [Division](Introduction/Day4Division.py)
-
-  Day 5 : [Loop](Introduction/Day5Loop.py)
-
-  Day 6 : [Write a function](Introduction/Day6write_a_function.py)
-
-  Day 7 : [Print Function](Introduction/Day7PrintFunction.py)
+| DAY          | Problem                                                  | 
+| ------------ | -------------------------------------------------------- |
+| 1            | [Hello World](Introduction/Day1SayHelloWorld.py)         |
+| 2            | [If Else](Introduction/Day2IfElse.py)                    |
+| 3            | [Arithmetic Operators](Introduction/Day3ArithmeticOperators.py) |
+| 4            | [Division](Introduction/Day4Division.py) |
+| 5            | [Loop](Introduction/Day5Loop.py) |
+| 6            | [Write a function](Introduction/Day6write_a_function.py) |
+| 7            | [Print Function](Introduction/Day7PrintFunction.py) |
 
 ### Basic DataTypes
-  Day 8 : [List Comprehensions](BasicDatatypes/Day8ListComprehensions.py)
-  
-  Day 9 : [Find The Runner Up Score](BasicDatatypes/Day9FindTheRunnerUpScore.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 8            | [List Comprehensions](BasicDatatypes/Day8ListComprehensions.py) |
+| 9            | [Find The Runner Up Score](BasicDatatypes/Day9FindTheRunnerUpScore.py) |
+| 10           | [Nested Lists](BasicDatatypes/Day10NestedLists.py) |
+| 11           | [Finding The Percentage](BasicDatatypes/Day11FindingThePercentage.py) |
+| 12           | [Lists](BasicDatatypes/Day12Lists.py) |
+| 13           | [Tuples](BasicDatatypes/Day13Tuples.py) |
 
-  Day 10 : [Nested Lists](BasicDatatypes/Day10NestedLists.py)
-  
-  Day 11 : [Finding The Percentage](BasicDatatypes/Day11FindingThePercentage.py)
-  
-  Day 12 : [Lists](BasicDatatypes/Day12Lists.py)
-  
-  Day 13 : [Tuples](BasicDatatypes/Day13Tuples.py)
-  
 ### Strings
-  Day 14 : [sWAP cASE](Strings/Day14sWAPcASE.PY)
-  
-  Day 15 : [String Split And Join](Strings/Day15StringSplitAndJoin.py)
-  
-  Day 16 : [What's Your Name](Strings/Day16WhatsYourName.py)
-  
-  Day 17 : [Mutations](Strings/Day17Mutations.py)
-  
-  Day 18 : [Find A String](Strings/Day18FindAString.py)
-  
-  Day 19 : [String Validators](Strings/Day19StringValidators.py)
-  
-  Day 20 : [Text Alignment](Strings/Day20TextAlignment.py)
-  
-  Day 21 : [Text Wrap](Strings/Day21TextWrap.py)
-  
-  Day 22 : [Designer Door Mat](Strings/Day22DesignerDoorMat.py)
-  
-  Day 23 : [String Formatting](Strings/Day23StringFormatting.py)
-  
-  Day 24 : [Alphabet Rangoli](Strings/Day24AlphabetRangoli.py)
-  
-  Day 25 : [Capitalize](Strings/Day25Capitalize.py)
-  
-  Day 26 : [The Minion Game](Strings/Day26TheMinionGame.py)
-  
-  Day 27 : [Merge The Tools](Strings/Day27MergeTheTools.py)
-  
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 14           | [sWAP cASE](Strings/Day14sWAPcASE.PY) |
+| 15           | [String Split And Join](Strings/Day15StringSplitAndJoin.py) |
+| 16           | [What's Your Name](Strings/Day16WhatsYourName.py) |
+| 17           | [Mutations](Strings/Day17Mutations.py) |
+| 18           | [Find A String](Strings/Day18FindAString.py) |
+| 19           | [String Validators](Strings/Day19StringValidators.py) |
+| 20           | [Text Alignment](Strings/Day20TextAlignment.py) |
+| 21           | [Text Wrap](Strings/Day21TextWrap.py)  |
+| 22           | [Designer Door Mat](Strings/Day22DesignerDoorMat.py) |
+| 23           | [String Formatting](Strings/Day23StringFormatting.py) |
+| 24           | [Alphabet Rangoli](Strings/Day24AlphabetRangoli.py) |
+| 25           | [Capitalize](Strings/Day25Capitalize.py) |
+| 26           | [The Minion Game](Strings/Day26TheMinionGame.py) |
+| 27           | [Merge The Tools](Strings/Day27MergeTheTools.py) |
+
 ### Sets
-  Day 28 : [Introduction To Sets](Sets/Day28IntroToSets.py)
-  
-  Day 29 : [No Idea](Sets/Day29NoIdea.py)
-  
-  Day 30 : [Symmetric Difference](Sets/Day30SymmetricDifference.py)
-  
-  Day 31 : [Set .add()](Sets/Day31SetAdd.py)
-  
-  Day 32 : [Set .discard(), .remove() & .pop()](Sets/Day32SetDiscardRemovePop.py)
-  
-  Day 33 : [Set .union() Operation](Sets/Day33SetUnion.py)
-  
-  Day 34 : [Set .intersection() Operation](Sets/Day34SetIntersection.py)
-  
-  Day 35 : [Set .difference() Operation](Sets/Day35SetDifference.py)
-  
-  Day 36 : [Set .symmetric_difference() Operation](Sets/Day36SetSymmetricDifference.py)
-  
-  Day 37 : [Set Mutations](Sets/Day37SetMutations.py)
-  
-  Day 38 : [The Captain's Room](Sets/Day38TheCaptainsRoom.py)
-  
-  Day 39 : [Check Subset](Sets/Day39CheckSubset.py)
-  
-  Day 40 : [Check Strict Superset](Sets/Day40CheckStrictSuperset.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 28           | [Introduction To Sets](Sets/Day28IntroToSets.py) |
+| 29           | [No Idea](Sets/Day29NoIdea.py) |
+| 30           | [Symmetric Difference](Sets/Day30SymmetricDifference.py) |
+| 31           | [Set .add()](Sets/Day31SetAdd.py) |
+| 32           | [Set .discard(), .remove() & .pop()](Sets/Day32SetDiscardRemovePop.py) |
+| 33 | [Set .union() Operation](Sets/Day33SetUnion.py) |
+| 34 | [Set .intersection() Operation](Sets/Day34SetIntersection.py) |
+| 35 | [Set .difference() Operation](Sets/Day35SetDifference.py) |
+| 36 | [Set .symmetric_difference() Operation](Sets/Day36SetSymmetricDifference.py) |
+| 37 | [Set Mutations](Sets/Day37SetMutations.py) |
+| 38 | [The Captain's Room](Sets/Day38TheCaptainsRoom.py) |
+| 39 | [Check Subset](Sets/Day39CheckSubset.py) |
+| 40 | [Check Strict Superset](Sets/Day40CheckStrictSuperset.py) |
   
 ### Math
-  Day 41 : [Polar Coordinates](Math/Day41PolarCoordinates.py)
-  
-  Day 42 : [Find Angle MBC](Math/Day42FindAngleMBC.py)
-  
-  Day 43 : [Mod Divmod](Math/Day43ModDivmod.py)
-  
-  Day 44 : [Power-Mod Power](Math/Day44PowerModPower.py)
-  
-  Day 45 : [Integer Comes in all sizes](Math/Day45IntComesInAllSizes.py)
-  
-  Day 46 : [Triangle Quest](Math/Day46TriangleQuest.py)
-
-  Day 47 : [Triangle Quest2](Math/Day47TriangleQuest2.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 41 | [Polar Coordinates](Math/Day41PolarCoordinates.py) |
+| 42 | [Find Angle MBC](Math/Day42FindAngleMBC.py) |
+| 43 | [Mod Divmod](Math/Day43ModDivmod.py) |
+| 44 | [Power-Mod Power](Math/Day44PowerModPower.py) |
+| 45 | [Integer Comes in all sizes](Math/Day45IntComesInAllSizes.py) |
+| 46 | [Triangle Quest](Math/Day46TriangleQuest.py) |
+| 47 | [Triangle Quest2](Math/Day47TriangleQuest2.py) |
 
 ### Itertools
-
-  Day 48 : [Itertools .product()](Itertools/Day48ItertoolsProduct.py)
-
-  Day 49 : [Itertools .permutations()](Itertools/Day49ItertoolsPermutations.py)
-
-  Day 50 : [Itertools .combinations()](Itertools/Day50ItertoolsCombinations.py)
-
-  Day 51 : [Itertools .combinations_with_replacement()](Itertools/Day51ItertoolsCombinationsWithReplacement.py)
-
-  Day 52 : [Compress The String](Itertools/Day52CompressTheString.py)
-
-  Day 53 : [Iterables And Iterators](Itertools/Day53IterablesAndIterators.py)
-
-  Day 54 : [Maximize It](Itertools/Day54MaximizeIt.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 48 | [Itertools .product()](Itertools/Day48ItertoolsProduct.py) |
+| 49 | [Itertools .permutations()](Itertools/Day49ItertoolsPermutations.py) |
+| 50 | [Itertools .combinations()](Itertools/Day50ItertoolsCombinations.py) |
+| 51 | [Itertools .combinations_with_replacement()](Itertools/Day51ItertoolsCombinationsWithReplacement.py) |
+| 52 | [Compress The String](Itertools/Day52CompressTheString.py) |
+| 53 | [Iterables And Iterators](Itertools/Day53IterablesAndIterators.py) |
+| 54 | [Maximize It](Itertools/Day54MaximizeIt.py) |
 
 ### Collections
 
