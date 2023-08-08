@@ -5,7 +5,6 @@ import re
 import sys
 
 first_multiple_input = input().rstrip().split()
-
 n = int(first_multiple_input[0])
 
 m = int(first_multiple_input[1])
