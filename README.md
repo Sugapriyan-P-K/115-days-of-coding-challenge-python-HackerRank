@@ -117,113 +117,87 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 54 | [Maximize It](Itertools/Day54MaximizeIt.py) |
 
 ### Collections
-
-  Day 55 : [Collections.Counter()](Collections/Day55CollectionsCounter.py)
-
-  Day 56 : [DefaultDict](Collections/Day56DefaultDict.py)
-
-  Day 57 : [Named Tuple](Collections/Day57NamedTuple.py)
-
-  Day 58 : [Ordered Dict](Collections/Day58OrderedDict.py)
-
-  Day 59 : [Word Order](Collections/Day59WordOrder.py)
-
-  Day 60 : [Collections.deque()](Collections/Day60Deque.py)
-
-  Day 61 : [Company Logo](Collections/Day61CompanyLogo.py)
-
-  Day 62 : [Piling Up](Collections/Day62PilingUp.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 55 | [Collections.Counter()](Collections/Day55CollectionsCounter.py) |
+| 56 | [DefaultDict](Collections/Day56DefaultDict.py) |
+| 57 | [Named Tuple](Collections/Day57NamedTuple.py) |
+| 58 | [Ordered Dict](Collections/Day58OrderedDict.py) |
+| 59 | [Word Order](Collections/Day59WordOrder.py) |
+| 60 | [Collections.deque()](Collections/Day60Deque.py) |
+| 61 | [Company Logo](Collections/Day61CompanyLogo.py) |
+| 62 | [Piling Up](Collections/Day62PilingUp.py) |
 
 ### Date and Time
-
-  Day 63 : [Calendar Module](DateAndTime/CalendarModule.py)
-
-  Day 64 : [Time Delta](DateAndTime/TimeDelta.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 63 | [Calendar Module](DateAndTime/CalendarModule.py) |
+| 64 | [Time Delta](DateAndTime/TimeDelta.py) |
 
 ### Errors and Exceptions
-
-  Day 65 : [Errors And Exceptions](ErrorsAndExceptions/Exceptionss.py)
-
-  Day 66 : [Incorrect Regex](ErrorsAndExceptions/IncorrectRegex.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 65 | [Errors And Exceptions](ErrorsAndExceptions/Exceptionss.py) |
+| 66 | [Incorrect Regex](ErrorsAndExceptions/IncorrectRegex.py) |
 
 ### Classes
-
-  Day 67 : [Dealing With Complex Number](Classes/DealingWithComplexNumber.py)
-
-  Day 68 : [Find The Torsional Angle](Classes/FindTheTorsionalAngle.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 67 | [Dealing With Complex Number](Classes/DealingWithComplexNumber.py) |
+| 68 | [Find The Torsional Angle](Classes/FindTheTorsionalAngle.py) |
 
 ### Built-Ins
-
-  Day 69 : [Zipped!](Built-Ins/Zipped.py)
-
-  Day 70 : [Input()](Built-Ins/Input.py)
-
-  Day 71 : [Python Evaluation](Built-Ins/PythonEvaluation.py)
-
-  Day 72 : [Athlete Sort](Built-Ins/AthleteSort.py)
-
-  Day 73 : [Any Or All](Built-Ins/AnyOrAll.py)
-
-  Day 74 : [ginortS](Built-Ins/ginortS.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 69 | [Zipped!](Built-Ins/Zipped.py) |
+| 70 | [Input()](Built-Ins/Input.py) |
+| 71 | [Python Evaluation](Built-Ins/PythonEvaluation.py) |
+| 72 | [Athlete Sort](Built-Ins/AthleteSort.py) |
+| 73 | [Any Or All](Built-Ins/AnyOrAll.py) |
+| 74 | [ginortS](Built-Ins/ginortS.py) |
 
 ### Python Functionals
-
-  Day 75 : [Map And Lambda Function](PythonFunctionals/MapAndLambda.py)
-
-  Day 76 : [Validating Email Address](PythonFunctionals/ValidatingEmailAddress.py)
-
-  Day 77 : [Reduce Function](PythonFunctionals/ReduceFunction.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 75 | [Map And Lambda Function](PythonFunctionals/MapAndLambda.py) |
+| 76 | [Validating Email Address](PythonFunctionals/ValidatingEmailAddress.py) |
+| 77 | [Reduce Function](PythonFunctionals/ReduceFunction.py) |
 
 ### XML
-
-  Day 78 : [XML1 - Find the Score](XML/XML1FindTheScore.py)
-
-  Day 79 : [XML2 - Find the Maximum Depth](XML/XML2FindTheMaximumDepth.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 78 | [XML1 - Find the Score](XML/XML1FindTheScore.py) |
+| 79 | [XML2 - Find the Maximum Depth](XML/XML2FindTheMaximumDepth.py) |
 
 ### Closures And Decorators
-
-  Day 80 : [Standardize Mobile Number using Decorators](ClosuresAndDecorators/StdizeMobNumUsingDec.py)
-
-  Day 81 : [Decorators 2 - Name Dictonary](ClosuresAndDecorators/NameDirectory.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 80 | [Standardize Mobile Number using Decorators](ClosuresAndDecorators/StdizeMobNumUsingDec.py) |
+| 81 | [Decorators 2 - Name Dictonary](ClosuresAndDecorators/NameDirectory.py) |
 
 ### Debugging
-
-  Day 82 : [Words Score](Debugging/WordsScore.py)
-
-  Day 83 : [Default Arguments](Debugging/DefaultArguments.py)
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 82 | [Words Score](Debugging/WordsScore.py) |
+| 83 | [Default Arguments](Debugging/DefaultArguments.py) |
 
 ### Regex And Parsing
-
-  Day 84 : [Detect Floating Point Number](RegexAndParsing/DetectFPNumber.py)
-
-  Day 85 : [Re.split()](RegexAndParsing/ReSplit.py)
-
-  Day 86 : [Group(), Groups() & Groupdict()](RegexAndParsing/Groupss.py)
-
-  Day 87 : [Re.findall() & Re.finditer()](RegexAndParsing/ReFinds.py)
-
-  Day 88 : [Re.start() & Re.end()](RegexAndParsing/ReStartEnd.py)
-
-  Day 89 : [Regex Substitution](RegexAndParsing/RegexSubstitution.py)
-
-  Day 90 : [Validating Roman Numerals](RegexAndParsing/ValidRomanNumerals.py)
-
-  Day 91 : [Validating Phone Numbers](RegexAndParsing/ValidPhoneNumbers.py)
-
-  Day 92 : [Validating And Parsing Email Address](RegexAndParsing/ValidatingAndParsingEmailAddress.py)
-
-  Day 93 : [Hex Color Code](RegexAndParsing/HexColorCode.py)
-
-  Day 94 : [HTML Parser - Part 1](RegexAndParsing/HTMLParser1.py)
-
-  Day 95 : [HTML Parser - Part 2](RegexAndParsing/HTMLParser2.py)
-
-  Day 96 : [Detect HTML Tags, Attributes and Attribute Values](RegexAndParsing/DetectTagAttrAndValues.py)
-
-  Day 97 : [Validating UID](RegexAndParsing/ValidatingUID.py)
-
-  Day 98 : [Validating Credit card Number](RegexAndParsing/ValidCreditCardNumber.py)
-
-  Day 99 : [Validating Postal Codes](RegexAndParsing/ValidPostalCodes.py)
-
-  
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 84 | [Detect Floating Point Number](RegexAndParsing/DetectFPNumber.py) |
+| 85 | [Re.split()](RegexAndParsing/ReSplit.py) |
+| 86 | [Group(), Groups() & Groupdict()](RegexAndParsing/Groupss.py) |
+| 87 | [Re.findall() & Re.finditer()](RegexAndParsing/ReFinds.py) |
+| 88 | [Re.start() & Re.end()](RegexAndParsing/ReStartEnd.py) |
+| 89 | [Regex Substitution](RegexAndParsing/RegexSubstitution.py) |
+| 90 | [Validating Roman Numerals](RegexAndParsing/ValidRomanNumerals.py) |
+| 91 | [Validating Phone Numbers](RegexAndParsing/ValidPhoneNumbers.py) |
+| 92 | [Validating And Parsing Email Address](RegexAndParsing/ValidatingAndParsingEmailAddress.py) |
+| 93 | [Hex Color Code](RegexAndParsing/HexColorCode.py) |
+| 94 | [HTML Parser - Part 1](RegexAndParsing/HTMLParser1.py) |
+| 95 | [HTML Parser - Part 2](RegexAndParsing/HTMLParser2.py) |
+| 96 | [Detect HTML Tags, Attributes and Attribute Values](RegexAndParsing/DetectTagAttrAndValues.py) |
+| 97 | [Validating UID](RegexAndParsing/ValidatingUID.py) |
+| 98 | [Validating Credit card Number](RegexAndParsing/ValidCreditCardNumber.py) |
+| 99 | [Validating Postal Codes](RegexAndParsing/ValidPostalCodes.py) |
+| 100 | [Matrix Script](RegexAndParsing/MatrixScript.py) |
