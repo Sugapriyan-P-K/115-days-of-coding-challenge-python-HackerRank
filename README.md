@@ -201,3 +201,8 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 98 | [Validating Credit card Number](RegexAndParsing/ValidCreditCardNumber.py) |
 | 99 | [Validating Postal Codes](RegexAndParsing/ValidPostalCodes.py) |
 | 100 | [Matrix Script](RegexAndParsing/MatrixScript.py) |
+
+### Numpy
+| DAY          | Problem                                                  |
+| ------------ | -------------------------------------------------------- |
+| 101 | [Arrays](Numpy/Arrays.py) |
