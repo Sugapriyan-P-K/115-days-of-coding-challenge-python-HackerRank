@@ -1,4 +1,13 @@
+import numpy
 
+def arrays(arr):
+    a = numpy.array(arr, float)
+    reversed_arr = a[::-1]
+    return reversed_arr
+
+arr = input().strip().split(' ')
+result = arrays(arr)
+print(result)
 
 # Task
 # You are given a space separated list of numbers.
