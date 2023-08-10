@@ -208,3 +208,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | DAY          | Problem                                                  |
 | ------------ | -------------------------------------------------------- |
 | 101 | [Arrays](Numpy/Arrays.py) |
+| 102 | [Shape and Reshape](Numpy/shapeReshape.py) |
