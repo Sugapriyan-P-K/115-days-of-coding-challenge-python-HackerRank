@@ -1,4 +1,8 @@
-
+import numpy
+ar = map(int, input().split())
+arr = list(ar)
+a1 = numpy.array([arr], int)
+print(a1.reshape(3,3))
 
 # Task
 # You are given a space separated list of nine integers. Your task is to convert this list into a 3 X 3 NumPy array.
