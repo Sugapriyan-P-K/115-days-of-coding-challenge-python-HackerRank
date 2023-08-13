@@ -211,3 +211,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 102 | [Shape and Reshape](Numpy/shapeReshape.py) |
 | 103 | [Transpose and Flatten](Numpy/transposeFlatten.py) |
 | 104 | [Concatenate](Numpy/Concatenate.py) |
+| 105 | [Zeroes and Ones](Numpy/ZeroesAndOnes.py) |
