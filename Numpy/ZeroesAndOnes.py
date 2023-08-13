@@ -1,4 +1,8 @@
-
+import numpy
+r = map(int, input().split())
+f = list(r)
+print(numpy.zeros(f,dtype=int))
+print(numpy.ones(f,dtype=int))
 
 # Task
 # You are given the shape of the array in the form of space-separated integers, each integer representing the size of different dimensions,
