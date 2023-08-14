@@ -212,3 +212,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 103 | [Transpose and Flatten](Numpy/transposeFlatten.py) |
 | 104 | [Concatenate](Numpy/Concatenate.py) |
 | 105 | [Zeroes and Ones](Numpy/ZeroesAndOnes.py) |
+| 106 | [Eye and Identity](Numpy/EyeAndIdentity.py) |
