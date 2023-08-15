@@ -213,3 +213,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 104 | [Concatenate](Numpy/Concatenate.py) |
 | 105 | [Zeroes and Ones](Numpy/ZeroesAndOnes.py) |
 | 106 | [Eye and Identity](Numpy/EyeAndIdentity.py) |
+| 107 | [Array Mathematics](Numpy/ArrayMathematics.py) |
