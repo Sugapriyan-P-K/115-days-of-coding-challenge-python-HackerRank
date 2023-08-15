@@ -1,4 +1,15 @@
-
+import numpy
+n,m = map(int,input().split())
+arr1 = numpy.array([input().strip().split() for _ in range(n)], int)
+arr2 = numpy.array([input().strip().split() for _ in range(n)], int)
+print(numpy.add(arr1,arr2))
+print(numpy.subtract(arr1,arr2))
+print(numpy.multiply(arr1,arr2))
+a = numpy.array(numpy.divide(arr1,arr2), int)
+print(a)
+b = numpy.array(numpy.mod(arr1,arr2), int)
+print(b)
+print(numpy.power(arr1,arr2))
 
 # Task
 # You are given two integer arrays, A and B of dimensions N X M.
