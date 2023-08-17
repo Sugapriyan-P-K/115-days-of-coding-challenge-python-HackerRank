@@ -1,4 +1,7 @@
-
+import numpy
+n,m = map(int, input().split())
+arr = numpy.array([input().strip().split() for _ in range(n)], int)
+print(numpy.prod(numpy.sum(arr,axis=0)))
 
 # Task
 # You are given a 2-D array with dimensions N X M.
