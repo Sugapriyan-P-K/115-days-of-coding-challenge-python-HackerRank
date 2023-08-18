@@ -216,3 +216,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 107 | [Array Mathematics](Numpy/ArrayMathematics.py) |
 | 108 | [Floor, Ceil and Rint](Numpy/FloorCeilRint.py) |
 | 109 | [Sum and Prod](Numpy/SumAndProd.py) |
+| 110 | [Min and Max](Numpy/MinAndMax.py) |
