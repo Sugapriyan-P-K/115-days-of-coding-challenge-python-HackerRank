@@ -218,3 +218,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 109 | [Sum and Prod](Numpy/SumAndProd.py) |
 | 110 | [Min and Max](Numpy/MinAndMax.py) |
 | 111 | [Mean, Var and Std](Numpy/MeanVarAndStd.py) |
+| 112 | [Dot and Cross](Numpy/DotAndCross.py) |
