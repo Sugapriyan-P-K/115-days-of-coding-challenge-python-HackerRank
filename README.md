@@ -220,3 +220,4 @@ This is a coding challenge. In this challenge I'm gonna complete all the coding 
 | 111 | [Mean, Var and Std](Numpy/MeanVarAndStd.py) |
 | 112 | [Dot and Cross](Numpy/DotAndCross.py) |
 | 113 | [Inner and Outer](Numpy/InnerAndOuter.py) |
+| 114 | [Polynomials](Numpy/Polynomials.py) |
