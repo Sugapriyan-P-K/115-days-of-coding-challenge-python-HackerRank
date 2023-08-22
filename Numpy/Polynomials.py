@@ -1,4 +1,5 @@
-
+import numpy
+print(numpy.polyval(list(map(float, input().split())),float(input())))
 
 # Task
 # You are given the coefficients of a polynomial P.
